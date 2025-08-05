@@ -52,5 +52,3 @@ If you would like to run the Random Password Generator on your local machine, fo
 
 - Python 3.8 or later
 - Required Python packages: `Streamlit`, `random`, `string`
-
-
